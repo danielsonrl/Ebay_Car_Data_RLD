@@ -25,7 +25,7 @@ I have been provided a dataset from Kaggle that outlines eBay sales date on Germ
 
 ### Project Description
 
-Using the csv file provided to me from Kaggle, I will start by putting the dataset into a Pandas dataframe.  All info about categorical and numerical columns will be explored.  Columns that are in camelcase will be changed to snakecase.  There will be cases where columns will need to be converted from objects and string types to numeric types.  In addition, I will be providing summary statistics in my final dataframe.  
+Using the csv file provided to me from Kaggle, I will start by putting the dataset into a Pandas dataframe.  All info about categorical and numerical columns will be explored.  Columns that are in camelcase will be changed to snakecase.  There will be cases where columns will need to be converted from objects and string types to numeric types.  In addition, I will be providing summary statistics in my final dataframe.  A bar graph will be included showing the "Top 10 Most Expensive Automobile Brands."
 
 
 ### Columns Explored
