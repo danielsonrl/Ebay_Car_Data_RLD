@@ -1,4 +1,4 @@
-### Ebay_Car_Data_RLD
+# Ebay_Car_Data_RLD
 
 All files of code are as provided in this repository. This activity has been provided by Dataquest.
 
@@ -50,11 +50,11 @@ Using the csv file provided to me from Kaggle, I will start by putting the datas
     * Data Cleaning
     * Writeup & Reporting
 
-# Contributing Members
+### Contributing Members
 
     * Robert Danielson 
     https://github.com/danielsonrl/Ebay_Car_Data_RLD
     
-# Dataset Source
+### Dataset Source
     https://www.kaggle.com/orgesleka/used-cars-database/data
 
